@@ -1,1 +1,0 @@
-import{e as o,c as s,a,b as n,F as c,o as r,_ as m}from"./index-BTU154kS.js";const _={};function l(d,e){const t=m;return r(),s(c,null,[a(t),e[0]||(e[0]=n("div",{class:"comment"},[n("h1",{class:"tt"},"comment")],-1))],64)}const f=o(_,[["render",l]]);export{f as default};

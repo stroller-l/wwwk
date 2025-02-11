@@ -1,1 +1,0 @@
-import{e as s,c as t,a as o,b as a,F as c,o as r,_}from"./index-BTU154kS.js";const p={};function l(m,e){const n=_;return r(),t(c,null,[o(n),e[0]||(e[0]=a("div",{class:"map"},[a("h1",{class:"tt"},"map")],-1))],64)}const f=s(p,[["render",l]]);export{f as default};
